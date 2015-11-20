@@ -4,7 +4,7 @@
   "contributors": ["cofl"],
   "description": "A metalsmith plugin for layouts, forked from metalsmith-layouts, with regex instead of multimatch.",
   "repository": "git://github.com/cofl/sane-layouts.git",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
