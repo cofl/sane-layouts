@@ -1,10 +1,10 @@
 {
   "name": "sane-layouts",
   "author": "superwolff <superwolff@superwolff.nl> (http://superwolff.nl/)",
-  "contributors": ["cofl"]
+  "contributors": ["cofl"],
   "description": "A metalsmith plugin for layouts, forked from metalsmith-layouts, with regex instead of multimatch.",
   "repository": "git://github.com/cofl/sane-layouts.git",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
